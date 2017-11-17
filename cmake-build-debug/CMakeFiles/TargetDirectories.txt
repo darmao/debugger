@@ -1,0 +1,4 @@
+/home/darmao/CLionProjects/debugger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/darmao/CLionProjects/debugger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/darmao/CLionProjects/debugger/cmake-build-debug/CMakeFiles/libelfin.dir
+/home/darmao/CLionProjects/debugger/cmake-build-debug/CMakeFiles/debugger.dir
