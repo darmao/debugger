@@ -1,2 +1,1 @@
-# debugger
-linux debugger
+一个简单的linux调试器,正在进行中。。。
