@@ -38,8 +38,8 @@
       <file leaf-file-name="debugger.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/debugger.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="234" column="45" lean-forward="true" selection-start-line="234" selection-start-column="45" selection-end-line="234" selection-end-column="45" />
+            <state relative-caret-position="206">
+              <caret line="236" column="12" lean-forward="false" selection-start-line="236" selection-start-column="12" selection-end-line="236" selection-end-column="12" />
               <folding>
                 <element signature="e#40#57#0" expanded="true" />
               </folding>
@@ -188,8 +188,8 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="823" />
-    <option name="y" value="121" />
+    <option name="x" value="440" />
+    <option name="y" value="28" />
     <option name="width" value="1250" />
     <option name="height" value="897" />
   </component>
@@ -299,10 +299,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61043000" />
+    <option name="totallyTimeSpent" value="61184000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="823" y="121" width="1250" height="897" extended-state="0" />
+    <frame x="440" y="28" width="1250" height="897" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -765,8 +765,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/debugger.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="234" column="45" lean-forward="true" selection-start-line="234" selection-start-column="45" selection-end-line="234" selection-end-column="45" />
+        <state relative-caret-position="206">
+          <caret line="236" column="12" lean-forward="false" selection-start-line="236" selection-start-column="12" selection-end-line="236" selection-end-column="12" />
           <folding>
             <element signature="e#40#57#0" expanded="true" />
           </folding>

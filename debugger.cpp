@@ -234,6 +234,7 @@ siginfo_t debugger::get_signal_info()
 
 void debugger::handle_sigtrap(siginfo_t info)
 {
+    //这里处理信号
     switch (info.si_code)
     {
         case SI_KERNEL:
