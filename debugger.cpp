@@ -16,7 +16,7 @@ void debugger::run()
 {
     int wait_status;
     auto options=0;
-    waitpid(m_pid,&wait_status,options);//父进程阻塞在这里等待子进程启动完毕,此时没有父进程的命令，子进程挂起
+    waitpid(m_pid,&wait_status,options);//父进程阻塞在这里等待子进程启动完毕,此时没有父进程重新启动的的命令，子进程挂起
     char* line= nullptr;
     while((line=linenoise("(myGDB)"))!= nullptr)
     {
